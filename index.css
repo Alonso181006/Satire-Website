@@ -1,0 +1,13 @@
+body{
+    background: url('')rgba(0,0,0,0);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+}
+
+@media(max-width: 991px){
+    .sidebar{
+        background-color: rgba(255,255,255, 0.15);
+        backdrop-filter: blur(10px);
+    }    
+}
