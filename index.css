@@ -11,3 +11,11 @@ body{
         backdrop-filter: blur(10px);
     }    
 }
+.player {
+    aspect-ratio: 16/9;
+    width: 100%;
+}
+
+.hr1 {
+    width:50%;
+}
